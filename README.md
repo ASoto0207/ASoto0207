@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel Soto</h1>
 <h3 align="center">A passionate Software Engineer from Boston MA,</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: angelsoto9597@gmail.com</h3>
 <p align="left">
 </p>
 
