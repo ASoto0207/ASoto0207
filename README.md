@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Angel Soto</h1>
 <h3 align="center">A passionate Software Engineer from Boston MA,</h3>
 
-<h3 align="left">Connect with me: angelsoto9597@gmail.com</h3>
+- 🌱 I’m currently learning **Node.js and MongoDB**
+
+- 👨‍💻 All of my projects are available at [https://angelsotoportfolio.netlify.app/#](https://angelsotoportfolio.netlify.app/#)
+
+- 📫 How to reach me **angelsoto9597@gmail.com**
+
+- ⚡ Fun fact **I love a really good lasagna**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
